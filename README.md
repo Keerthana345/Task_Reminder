@@ -34,11 +34,11 @@ Task Reminder is a mobile application designed to help users efficiently manage 
 5. In the settings of the app, ensure that **Notifications**, **Music & Audio**, and **Appear on Top** permissions are enabled for proper functionality.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/13f28e68-633e-4c39-87b8-1e555b2e27f4)
-![image](https://github.com/user-attachments/assets/6c35131c-e61f-479a-8b18-42009a4ea19b)
-![image](https://github.com/user-attachments/assets/3f5bdb59-80cf-4f4e-83e4-f107e79f1f70)
-![image](https://github.com/user-attachments/assets/64da2f20-6d5f-47a9-a8e1-96f666f0c5c6)
-![image](https://github.com/user-attachments/assets/4c2a6b9d-0143-442d-a030-48b2a0eecb1d)
-![image](https://github.com/user-attachments/assets/ad12f156-0460-4233-95e2-c04876d15006)
-![image](https://github.com/user-attachments/assets/fcb1902d-2716-45bb-8e01-01f76b3b6f14)
-![image](https://github.com/user-attachments/assets/b1f71dd9-bfcf-4e0f-9bc3-cf5547d718f9)
+![WhatsApp Image 2025-03-14 at 11 22 21_79864a59](https://github.com/user-attachments/assets/57b18040-0541-4e15-be3a-3e716f2161ed)
+![WhatsApp Image 2025-03-14 at 11 22 21_3f99a1b1](https://github.com/user-attachments/assets/b8abc90b-b290-4a7f-b859-f393416381fc)
+![WhatsApp Image 2025-03-14 at 11 22 22_cbdec10d](https://github.com/user-attachments/assets/eb167398-ab73-4f1c-8a12-f60235f17a0c)
+![WhatsApp Image 2025-03-14 at 11 22 22_a5aeb7ae](https://github.com/user-attachments/assets/2778c885-ea34-413e-b89f-fb6703b9e8d6)
+![WhatsApp Image 2025-03-14 at 11 22 21_fd012609](https://github.com/user-attachments/assets/8205effb-c5b1-4443-8a6d-8296e195fd15)
+![WhatsApp Image 2025-03-14 at 11 22 22_38c90a0f](https://github.com/user-attachments/assets/d629490c-003c-4ad9-ba43-443ad978542c)
+![WhatsApp Image 2025-03-14 at 11 22 23_f0e4279a](https://github.com/user-attachments/assets/619d634a-cee0-460b-9fc7-5f8229839de6)
+![WhatsApp Image 2025-03-14 at 11 22 23_d90598e9](https://github.com/user-attachments/assets/37d4008d-cd80-49d3-9ec4-7d49b548cd60)
