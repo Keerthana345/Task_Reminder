@@ -31,6 +31,7 @@ Task Reminder is a mobile application designed to help users efficiently manage 
 2. Set a deadline and configure reminders.
 3. Receive notifications when a task is due.
 4. Mark tasks as completed or delete them if no longer needed.
+5. In the settings of the app, ensure that **Notifications**, **Music & Audio**, and **Appear on Top** permissions are enabled for proper functionality.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/13f28e68-633e-4c39-87b8-1e555b2e27f4)
